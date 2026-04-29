@@ -69,8 +69,7 @@ export function Hero() {
             <img
               src="/images/3cf0b681-58e1-4188-a22d-de32efe87232.jpg"
               alt="مصنع الوليد"
-              className="relative w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 object-contain rounded-2xl shadow-2xl shadow-gold/10"
-            />
+          className="relative w-24 h-24 sm:w-28 sm:h-28 object-contain rounded-xl shadow-2xl shadow-gold/10"            />
           </div>
         </div>
 

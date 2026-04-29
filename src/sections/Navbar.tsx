@@ -36,7 +36,7 @@ export function Navbar() {
             <img
               src="/images/3cf0b681-58e1-4188-a22d-de32efe87232.jpg"
               alt="مصنع الوليد"
-              className="h-14 w-auto rounded-md"
+              className="h-10 w-auto rounded-md"
             />
           </a>
 
