@@ -9,12 +9,12 @@ interface Product {
 }
 
 const products: Product[] = [
-  { id: 1, name: 'فستان سهرة أنيق', category: 'فساتين', image: '/images/prod-1.jpg' },
+  { id: 1, name: 'فستان فاخر ', category: 'فساتين', image: '/images/prod-1.jpg' },
   { id: 2, name: 'بلوزة كاجوال', category: 'بلوزات', image: '/images/prod-2.jpg' },
-  { id: 3, name: 'طقم رياضي', category: 'رياضي', image: '/images/prod-3.jpg' },
+  { id: 3, name: 'عباية رياضية', category: 'رياضي', image: '/images/prod-3.jpg' },
   { id: 4, name: 'عباية فاخرة', category: 'عبايات', image: '/images/prod-4.jpg' },
   { id: 5, name: 'جاكيت أنيق', category: 'جاكيتات', image: '/images/prod-5.jpg' },
-  { id: 6, name: 'تنورة كلاسيكية', category: 'تنانير', image: '/images/prod-6.jpg' },
+  { id: 6, name: 'الوليد', category: 'الوليد', image: '/images/prod-6.jpg' },
 ];
 
 export function Gallery() {
